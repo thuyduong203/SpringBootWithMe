@@ -19,6 +19,7 @@
         <java.version>17</java.version>
     </properties>
     <dependencies>
+        <!--        thư viện cho việc lập trình web : jsp-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
