@@ -121,5 +121,7 @@ public class Spring5Application {
         //thuc hien cau hinh de Spring boot tim Bean o cac pk
         //mong muon: dung ca kieu 1 pk hoac multiple, luc nay
         //Spring se tim bean theo duong dan ban truyen vao okeeee
+        //o buc the nhoooooooooooooooo
+        //=,=
     }
 }
